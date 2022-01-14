@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/movies-app/static/js/main.3b0978d6.chunk.js",
+    "main.js.map": "/movies-app/static/js/main.3b0978d6.chunk.js.map",
+    "runtime-main.js": "/movies-app/static/js/runtime-main.ba952dc1.js",
+    "runtime-main.js.map": "/movies-app/static/js/runtime-main.ba952dc1.js.map",
+    "static/js/2.a21e6c4d.chunk.js": "/movies-app/static/js/2.a21e6c4d.chunk.js",
+    "static/js/2.a21e6c4d.chunk.js.map": "/movies-app/static/js/2.a21e6c4d.chunk.js.map",
+    "index.html": "/movies-app/index.html",
+    "static/js/2.a21e6c4d.chunk.js.LICENSE.txt": "/movies-app/static/js/2.a21e6c4d.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/movies-app/static/media/no_image.22d2aa4d.jpg",
+    "static/media/react-movie-logo.35f4d399.svg": "/movies-app/static/media/react-movie-logo.35f4d399.svg",
+    "static/media/search-icon.bb4c697f.svg": "/movies-app/static/media/search-icon.bb4c697f.svg",
+    "static/media/tmdb_logo.e7029961.svg": "/movies-app/static/media/tmdb_logo.e7029961.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba952dc1.js",
+    "static/js/2.a21e6c4d.chunk.js",
+    "static/js/main.3b0978d6.chunk.js"
+  ]
+}
